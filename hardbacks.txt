@@ -1,0 +1,3 @@
+Harry Potter,J.K. Rowling,2345.000000
+Nancy Drew,Enid Blyton,4222.700195
+Percy Jackson,XYZ,6652.000000
